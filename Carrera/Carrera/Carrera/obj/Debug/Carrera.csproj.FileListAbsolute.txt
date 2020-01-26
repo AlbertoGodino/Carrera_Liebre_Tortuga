@@ -1,0 +1,6 @@
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\bin\Debug\Carrera.exe.config
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\bin\Debug\Carrera.exe
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\bin\Debug\Carrera.pdb
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\obj\Debug\Carrera.exe
+F:\HLC\Tema9 C#\Ejercicios\Carrera\Carrera\Carrera\obj\Debug\Carrera.pdb
